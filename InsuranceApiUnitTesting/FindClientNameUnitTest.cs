@@ -30,16 +30,7 @@ namespace InsuranceApiUnitTesting
             Type expectedType = typeof(Client);
             var client = await service.GetClientByName(existingName);
 
-            Assert.IsType(expectedType, client);
-        }
-
-        [Fact]
-        public async void NonExistingNameShouldNotReturnClient()
-        {
-            Type expectedType = typeof(Client);
-            var client = await service.GetClientByName(notExistingName);
-
-            Assert.IsNotType(expectedType, client);
+            Assert.NotNull(client);
         }
 
         [Fact]

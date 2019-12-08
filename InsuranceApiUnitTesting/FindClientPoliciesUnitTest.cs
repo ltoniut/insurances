@@ -27,7 +27,7 @@ namespace InsuranceApiUnitTesting
 
 
         [Fact]
-        public async void BritneyShouldReturnXPolicies()
+        public async void BritneyShouldReturn102Policies()
         {
             List<Policy> list = await service.GetPoliciesByClientName(britney);
 

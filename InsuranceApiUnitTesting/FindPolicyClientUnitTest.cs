@@ -21,15 +21,6 @@ namespace InsuranceApiUnitTesting
         }
 
         [Fact]
-        public async void NonExistingNameShouldNotReturnClient()
-        {
-            Type expected = typeof(Client);
-            Client client = await service.GetPolicyClientByPolicyId(notExistingId);
-
-            Assert.IsNotType(expected, client);
-        }
-
-        [Fact]
         public async void NonExistingNameShouldReturnNull()
         {
             Client client = await service.GetPolicyClientByPolicyId(notExistingId);
