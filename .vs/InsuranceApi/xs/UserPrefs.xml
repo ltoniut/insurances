@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{DCA9E416-5DA3-43F3-B05A-400453B9B6DD}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.InsuranceApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsuranceApiUnitTesting/FindPolicyClientUnitTest.cs">
+    <Files>
+      <File FileName="InsuranceApiUnitTesting/FindClientIdUnitTest.cs" Line="14" Column="9" />
+      <File FileName="InsuranceApiUnitTesting/FindClientPoliciesUnitTest.cs" Line="15" Column="9" />
+      <File FileName="InsuranceApi.Models/PoliciesList.cs" Line="8" Column="6" />
+      <File FileName="InsuranceApi.Services/Clients/ClientService.cs" Line="45" Column="46" />
+      <File FileName="InsuranceApiUnitTesting/FindClientNameUnitTest.cs" Line="13" Column="20" />
+      <File FileName="InsuranceApiUnitTesting/FindPolicyClientUnitTest.cs" Line="3" Column="37" />
+      <File FileName="InsuranceApi/AuthService/AuthService.cs" Line="25" Column="1" />
+      <File FileName="InsuranceApi/Helpers/AppSettings.cs" Line="6" Column="23" />
+      <File FileName="InsuranceApi.Models/Client.cs" Line="21" Column="2" />
+      <File FileName="InsuranceApi/Controllers/AuthController.cs" Line="25" Column="32" />
+      <File FileName="InsuranceApi/appsettings.json" Line="3" Column="70" />
+      <File FileName="InsuranceApi/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="InsuranceApi/Program.cs" Line="15" Column="39" />
+      <File FileName="InsuranceApi/Properties/launchSettings.json" Line="23" Column="30" />
+      <File FileName="InsuranceApi/AuthService/IAuthService.cs" Line="6" Column="36" />
+      <File FileName="InsuranceApi/Services/PolicyService.cs" Line="11" Column="32" />
+      <File FileName="InsuranceApi.Services/Policies/PolicyService.cs" Line="11" Column="33" />
+      <File FileName="InsuranceApi.Services/Policies/IPolicyService.cs" Line="5" Column="41" />
+      <File FileName="InsuranceApi/Controllers/PolicyController.cs" Line="4" Column="37" />
+      <File FileName="InsuranceApi.Services/Sources.cs" Line="6" Column="93" />
+      <File FileName="InsuranceApi/Startup.cs" Line="59" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InsuranceApi" expanded="True">
+            <Node name="InsuranceApi" expanded="True">
+              <Node name="AuthService" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="InsuranceApi.Models" expanded="True" />
+            <Node name="InsuranceApi.Services" expanded="True">
+              <Node name="Clients" expanded="True" />
+              <Node name="Policies" expanded="True" />
+            </Node>
+            <Node name="InsuranceApi.UnitTesting" expanded="True">
+              <Node name="FindPolicyClientUnitTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InsuranceApi.UnitTesting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/Services/PolicyService.cs" relfile="InsuranceApi/Services/PolicyService.cs" line="23" column="1" />
+      <Breakpoint file="/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/Controllers/AuthController.cs" relfile="InsuranceApi/Controllers/AuthController.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

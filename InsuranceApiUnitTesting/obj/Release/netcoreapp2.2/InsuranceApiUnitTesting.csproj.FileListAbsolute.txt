@@ -1,0 +1,13 @@
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/obj/Release/netcoreapp2.2/InsuranceApiUnitTesting.csprojAssemblyReference.cache
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/obj/Release/netcoreapp2.2/InsuranceApiUnitTesting.AssemblyInfoInputs.cache
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/obj/Release/netcoreapp2.2/InsuranceApiUnitTesting.AssemblyInfo.cs
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/InsuranceApiUnitTesting.deps.json
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/InsuranceApiUnitTesting.runtimeconfig.json
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/InsuranceApiUnitTesting.runtimeconfig.dev.json
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/InsuranceApiUnitTesting.dll
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/bin/Release/netcoreapp2.2/InsuranceApiUnitTesting.pdb
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/obj/Release/netcoreapp2.2/InsuranceApiUnitTesting.dll
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApiUnitTesting/obj/Release/netcoreapp2.2/InsuranceApiUnitTesting.pdb
