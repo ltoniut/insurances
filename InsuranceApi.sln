@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceApi", "InsuranceApi\InsuranceApi.csproj", "{518EE5C0-E676-4026-A528-BB0DA881A81B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceApi.UnitTesting", "InsuranceApiUnitTesting\InsuranceApi.UnitTesting.csproj", "{DCA9E416-5DA3-43F3-B05A-400453B9B6DD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceApi.Services", "InsuranceApi.Services\InsuranceApi.Services.csproj", "{4604385C-B689-44DA-A62D-E325F83767E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceApi.Models", "InsuranceApi.Models\InsuranceApi.Models.csproj", "{EC110E06-7C61-497C-B952-F92C524124D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceApi.UnitTesting", "InsuranceApi.UnitTesting\InsuranceApi.UnitTesting.csproj", "{0E2E7053-3BF0-4CDC-AFD0-0E55312B9855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		{518EE5C0-E676-4026-A528-BB0DA881A81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{518EE5C0-E676-4026-A528-BB0DA881A81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{518EE5C0-E676-4026-A528-BB0DA881A81B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DCA9E416-5DA3-43F3-B05A-400453B9B6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCA9E416-5DA3-43F3-B05A-400453B9B6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCA9E416-5DA3-43F3-B05A-400453B9B6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCA9E416-5DA3-43F3-B05A-400453B9B6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4604385C-B689-44DA-A62D-E325F83767E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4604385C-B689-44DA-A62D-E325F83767E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4604385C-B689-44DA-A62D-E325F83767E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,5 +27,9 @@ Global
 		{EC110E06-7C61-497C-B952-F92C524124D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC110E06-7C61-497C-B952-F92C524124D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC110E06-7C61-497C-B952-F92C524124D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2E7053-3BF0-4CDC-AFD0-0E55312B9855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2E7053-3BF0-4CDC-AFD0-0E55312B9855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2E7053-3BF0-4CDC-AFD0-0E55312B9855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2E7053-3BF0-4CDC-AFD0-0E55312B9855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -7,6 +7,7 @@
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/bin/Debug/netcoreapp2.2/InsuranceApi.Services.dll
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/bin/Debug/netcoreapp2.2/InsuranceApi.Services.pdb
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/bin/Debug/netcoreapp2.2/InsuranceApi.Models.pdb
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.csprojAssemblyReference.cache
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.RazorAssemblyInfo.cache
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.RazorAssemblyInfo.cs
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.AssemblyInfoInputs.cache
@@ -15,4 +16,3 @@
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.csproj.CopyComplete
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.dll
 /home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.pdb
-/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi/obj/Debug/netcoreapp2.2/InsuranceApi.csprojAssemblyReference.cache

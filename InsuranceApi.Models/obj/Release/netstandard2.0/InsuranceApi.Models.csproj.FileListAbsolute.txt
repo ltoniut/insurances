@@ -1,0 +1,7 @@
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi.Models/bin/Release/netstandard2.0/InsuranceApi.Models.deps.json
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi.Models/bin/Release/netstandard2.0/InsuranceApi.Models.dll
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi.Models/bin/Release/netstandard2.0/InsuranceApi.Models.pdb
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi.Models/obj/Release/netstandard2.0/InsuranceApi.Models.AssemblyInfoInputs.cache
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi.Models/obj/Release/netstandard2.0/InsuranceApi.Models.AssemblyInfo.cs
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi.Models/obj/Release/netstandard2.0/InsuranceApi.Models.dll
+/home/leandro/repos/Tests/InsuranceApi/InsuranceApi/InsuranceApi.Models/obj/Release/netstandard2.0/InsuranceApi.Models.pdb

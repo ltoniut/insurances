@@ -17,8 +17,8 @@ namespace InsuranceApi.Services.Policies
             var webClient = new HttpClient();
             string clientsJson = await webClient.GetStringAsync(Sources.clients);
             string policiesJson = await webClient.GetStringAsync(Sources.policies);
-            var clients = JsonConvert.DeserializeObject<ClientsList>(clientsJson);
-            var policies = JsonConvert.DeserializeObject<PoliciesList>(policiesJson);
+            var clients = JsonConvert.DeserializeObject<HasClients>(clientsJson);
+            var policies = JsonConvert.DeserializeObject<HasPolicies>(policiesJson);
 
             var policyClient = from c in clients.Clients
                                join p in policies.Policies
