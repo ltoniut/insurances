@@ -11,7 +11,7 @@ namespace InsuranceApi.UnitTesting
     {
         readonly string britney = "Britney";
         readonly string lamb = "Lamb";
-        readonly string notExistingName = "Lamb";
+        readonly string notExistingName = "notaname";
         private HttpClient httpClient = new HttpClient();
         private readonly IClientService service;
 
